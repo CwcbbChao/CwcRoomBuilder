@@ -1,0 +1,26 @@
+{
+  "name": "com.cwcbb.cwcroombuilder",
+  "version": "1.0.0",
+  "displayName": "CwcRoomBuilder - Grid-Based Procedural Room & Dungeon Builder",
+  "description": "A lightweight, artist-friendly grid-based procedural room and dungeon generation tool for Unity. Features interactive Scene-view brush painting, automatic wall/floor/ceiling structure assembly, DoorPin openings, 2D SDF distance fields with gradient vector alignment, and 3D OBB collision-free prop decoration with nested slots.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "procedural",
+    "room",
+    "dungeon",
+    "leveldesign",
+    "grid",
+    "sdf",
+    "generator",
+    "props",
+    "level-editor"
+  ],
+  "author": {
+    "name": "Cwcbb",
+    "url": "https://github.com/CwcbbChao"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "samples": [],
+  "dependencies": {}
+}

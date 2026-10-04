@@ -1,0 +1,8 @@
+Third-Party Notices
+===================
+
+This package does not bundle external third-party proprietary assets or libraries.
+
+1. System Architecture:
+   - Built entirely on native Unity engine APIs (UnityEngine.Gizmos, UnityEditor.SceneView, UnityEngine.Bounds).
+   - Designed with zero third-party dependencies and zero external asset requirements.

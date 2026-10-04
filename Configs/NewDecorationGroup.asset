@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ccb7cfd8e7e82041952d234ab30616b, type: 3}
+  m_Name: NewDecorationGroup
+  m_EditorClassIdentifier: 
+  _layer:
+    serializedVersion: 2
+    m_Bits: 256
+  _distanceRatioRange: {x: 0, y: 0.3}
+  _followSdfGradient: 1
+  _wallCornerPadding: 0
+  _isVolumeObject: 1
+  _avoidDoorPassage: 1
+  _preventWallPenetration: 1
+  _distributionPattern: 0
+  _uniformStride: 1
+  _decorations:
+  - _prefab: {fileID: 3008229226220289300, guid: f6ea45eb8e563f44795f18b6529012e8,
+      type: 3}
+    _positionOffset: {x: 0, y: 0, z: 0}
+    _rotationOffset: {x: 0, y: 0, z: 0}
+    _amountRange: {x: 1, y: 8}
+    _spacing: 0
+    _scaleRange: {x: 1, y: 1}
+    _rotationMode: 4
+  - _prefab: {fileID: 3897760600486584438, guid: dff2d8797c3471e409b89fec03346996,
+      type: 3}
+    _positionOffset: {x: 0, y: 0, z: 0}
+    _rotationOffset: {x: 0, y: 0, z: 0}
+    _amountRange: {x: 1, y: 8}
+    _spacing: 0
+    _scaleRange: {x: 1, y: 1}
+    _rotationMode: 0
+  - _prefab: {fileID: 5024233649244510596, guid: edfb5da469d0de64fb8a281ce359ab73,
+      type: 3}
+    _positionOffset: {x: 0, y: 0, z: 0}
+    _rotationOffset: {x: 0, y: 90, z: 0}
+    _amountRange: {x: 1, y: 8}
+    _spacing: 6
+    _scaleRange: {x: 1, y: 1}
+    _rotationMode: 0
+  - _prefab: {fileID: 4780403100419820868, guid: 8178b877e4a14ad42af0ad96f0b4b5e2,
+      type: 3}
+    _positionOffset: {x: 0, y: 0, z: 0}
+    _rotationOffset: {x: 0, y: 0, z: 0}
+    _amountRange: {x: 1, y: 8}
+    _spacing: 6
+    _scaleRange: {x: 1, y: 1}
+    _rotationMode: 0
+  _allowedSlots:
+  - {fileID: 11400000, guid: 6ce8bd4cdcde9a34b8840b8ee8820515, type: 2}
+  _providedSlotType: {fileID: 0}
